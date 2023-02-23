@@ -11,6 +11,14 @@ ul{
 	list-style-type: none;
 	color: #FFFFFF;
 }
+li{
+	list-style-type: none;
+	color: #FFFFFF;
+}
 header{
 	color: #0020F4;
+}
+h2{
+	border-top: 30 px;
+	border-bottom: 60 px;
 }
